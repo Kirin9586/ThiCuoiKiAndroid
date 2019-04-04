@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Appchitieu</string>
+    <string name="taikhoan">Account</string>
+    <string name="matkhau">Password</string>
+    <string name="login">Login</string>
+    <string name="Sotien">So tien</string>
+    <string name="loaitien">Loai tien</string>
+    <string name="tieude">So du ban dau</string>
+    <string name="Add">Add</string>
+    <string name="chitieu">Tiền chi tiêu</string>
+    <string name="tong">Tiền chi tiêu của APP </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">thoi gian</string>
+    <string name="name">Ten</string>
+    <string name="gia">Gia</string>
+    <string name="sotienchitieu">So tien chi tieu</string>
+    <string name="loaichitieu">Loai chi tieu</string>
+    <string name="diadiem">Dia diem chi tieu</string>
+    <string name="thoigian">Date</string>
+    <string name="datetime">Date</string>
+    <string name="ghichu">Ghi chu</string>
+    <string name="save">Save</string>
+    <string name="lichsu">Lich su mua hang</string>
+    <string name="soti">Bang So tien chi tieu</string>
+    <string name="addphieu">Add phieu</string>
+    <string name="Danhsachmoi">Danh sach chi tieu</string>
+    <string name="Danhsachitieu">Danh sach chi tieu</string>
+    <string name="addchitieu">chi tieu</string>
+    <string name="sodubandau">So du ban dau</string>
+    <string name="sotien1">So tien</string>
+    <string name="loaitien1">Loai tien</string>
+    <string name="tongdu">Tong du</string>
+    <string name="sodu">So du</string>
+    <string name="addsodu">Add so du</string>
+    <string name="sodu1">Add sodu</string>
+    <string name="sodu2">So du</string>
+    <string name="btn_sodu">Add sodu</string>
+    <string name="name1">Usernam</string>
+    <string name="pass">Password</string>
+    <string name="repass">Repass</string>
+    <string name="re_sodu">So du</string>
+    <string name="loginre">Login</string>
+    <string name="regis">Register</string>
+    <string name="chuyen">Chuyen qua fragment</string>
+    <string name="adddu">Nhap so du</string>
+    <string name="btn_dongy">Dong y</string>
+    <string name="du">Them du</string>
+    <string name="btn_tuchoi">Cancel</string>
+    <string name="save1">Save</string>
+    <string name="them">Them Khoan</string>
+    <string name="tongchi">Tong chi tieu</string>
+    <string name="Sodu">So du hien tai</string>
+    <string name="to">Register</string>
+    <string-array name="item1">
+        <item>VND</item>
+        <item>USD</item>
+        <item>EU</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
